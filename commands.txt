@@ -1,0 +1,33 @@
+1 add mentor
+
+{
+    "mentorName" : "Arun",
+    "expertise" : "Python"
+}
+
+2 add student
+
+{
+  "studentName": "Dev"
+}
+
+3 Assign multiple students to a mentor and dont show if the student has mentor present already
+
+{
+  "studentNames": ["Ajith", "Arun", "Nick"]
+}
+
+4 Add mentor to the particular student if the student already has mentor move it previous mentor and ass new mentor as mentorName
+
+{
+  "mentorName": "John"
+}
+
+5 get the list of students for a particular mentor
+
+https://student-mentor-dz8w.onrender.com/students/Nick/previous-mentor
+
+6 Get the pre met for the particular student
+
+https://student-mentor-dz8w.onrender.com/mentor/Arun/list-student
+
